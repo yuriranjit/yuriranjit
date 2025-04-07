@@ -1,8 +1,40 @@
 # 👋 Hey there, I'm Yuri Ranjit
 
-🎯 **Quality Assurance Specialist | Project Manager | Detail-Oriented Troubleshooter**
+🎯 🔍 **Quality Assurance Officer | Project Manager | Business Strategist | Content Writer**  
+🌐 Kathmandu, Nepal | 💬 [LinkedIn](https://www.linkedin.com/in/yuri-ranjit-51b573209/) | 🛠️ [GitHub Projects](https://github.com/yuri-ranjit)
+
+---
+
+## 🚀 About Me
+
+I'm a versatile professional with hands-on experience across **Quality Assurance**, **Project Management**, **Business Development**, and **Content Writing**. My sweet spot is at the intersection of analytical thinking, problem-solving, and creative execution. Whether it's finding that elusive bug, writing a report that *actually* makes sense, or planning a roadmap that teams can rally around—I bring structure, clarity, and strategy to the chaos.
 
 I live at the crossroads of *precision testing*, *creative problem-solving*, and *no-BS project execution*. My daily grind revolves around uncovering bugs that hide in plain sight, improving app reliability, and managing cross-functional teams like a tactician playing 4D chess.
+
+I wear many hats, but they all fit under one mantra: **Deliver value, consistently.**
+
+---
+
+## 👨‍💻 Current Roles
+
+### 🧪 Project Management Associate | QA Officer @ **Fagoon AI** *(Apr 2024 – Present)*
+- Conducted manual QA on apps, websites, and portals — increased bug detection by 20%
+- Maintained QA documentation, tracked defect density, and improved test execution rates
+- Managed project timelines and resources to ensure on-time, high-quality delivery
+- Coordinated cross-functional teams for smooth workflows and stakeholder satisfaction
+
+### 📈 Business Development | Analyst | Content Writer @ **Ek ra Sunya** *(Apr 2024 – Present)*
+- Spearheaded lead generation efforts, boosting lead intake by 25%
+- Conducted business analysis and identified efficiency gaps—cut ops costs by 10%
+- Built and maintained CRM systems to streamline the client experience
+
+---
+
+### 🤝 Volunteer Roles @ **Kabhre Banepa Leo Club**
+- **Training Coordinator** *(Jul 2024 – Present)*: Leading development programs and workshops
+- **Membership Coordinator** *(Jun 2021 – Jun 2024)*: Drove growth and digital outreach
+
+---
 
 ## 🛠️ What I Do Best
 
@@ -13,24 +45,28 @@ I live at the crossroads of *precision testing*, *creative problem-solving*, and
   I write clear, concise, and reproducible reports that don’t make devs want to throw their monitors.
 
 - **Project Management:**  
-  I manage multiple client projects across design, development, AI, and marketing. Think of me as the glue that keeps the chaos organized.
+  I manage multiple client projects in design, development, AI, and marketing. I am the glue that keeps the chaos organized.
 
-- **Process Optimization:**  
-  I’m constantly questioning: *"Can this be leaner, smarter, faster?"* Spoiler: It usually can.
+- **Business Analysis**
+  CRM optimization, sales strategy, and data-driven lead generation. Delivered cost savings and efficiency wins with real ROI.
 
-## 🚀 Key Projects
+- **Content & Communication**
+  Technical presentations, SEO writing, and social media content. Clear, punchy, user-centered language.
+
+
+## 🚀 Key Projects (Snapshots)
 
 - **KUKU (TikTok-style app):**  
-  Oversaw QA and server tracking for a dynamic content-sharing platform. Coordinated between devs, WordPress, and hosting teams to keep things smooth.
+  Oversaw QA for a dynamic content-sharing platform. Coordinated between devs, WordPress, and hosting teams to keep things smooth.
 
 - **Ruby Homes:**  
-  Led digital transformation, covering website dev, SMM, design, and server management. Tracked invoices like a hawk.
+  Led digital transformation, covering website QA.
 
 - **4A Consultation:**  
   Managed a hybrid stack of services—AI, video editing, portals, and web design—while keeping creative and tech teams aligned.
 
 - **RFM | Innovative Associates | Wave Institute:**  
-  Consistent delivery of web, app, and design solutions while managing recurring support, branding, and Meta ads.
+  Consistent delivery of web, app, and design solutions while managing support and teams.
 
 ## 🧠 How I Think
 
@@ -46,21 +82,24 @@ I live at the crossroads of *precision testing*, *creative problem-solving*, and
 ## 💬 Favorite Sayings
 
 > “If it hasn’t been tested, it doesn’t work.”
-
 > “Edge cases aren’t edge cases if your users keep hitting them.”
 
-## 🎓 Always Leveling Up
+## 📚 Currently Leveling Up
 
-📚 Currently working on hitting Band 8–9 in IELTS writing. Because communication is half the battle.
-
----
-
-## ⚡️ Let’s Connect
-
-- [LinkedIn](https://www.linkedin.com/in/yuri-ranjit-51b573209/)
-- 📬 Email: yuriranjit@email.com
-- ☕️ Always down to debug life and apps over coffee.
+- 📘 Preparing for **IELTS**
+- ⚙️ Exploring **QA automation tools** & metrics-based testing
+- 🤖 Tinkering with **AI productivity tools** for content + PM workflows
 
 ---
 
-> *“Good QA isn’t about saying no. It’s about asking ‘what if’ until the product says yes.”*
+## 🧭 Work Philosophy
+
+> “Good systems don’t need micromanagers—just good questions.”
+> “Deliver what the client needs, not what you can develop.”
+> “Tell the truth, even if it’s ugly. Especially then.”
+> “If it hasn’t been tested, it doesn’t work.”
+> “Edge cases aren’t edge cases if your users keep hitting them.”
+
+---
+
+> *“Good QA is a mindset. Good management is a system. Great work happens when both show up to the same meeting.”*
