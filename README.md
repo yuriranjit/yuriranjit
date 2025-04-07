@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Yuri Ranjit
 
 🎯 🔍 **Quality Assurance Officer | Project Manager | Business Strategist | Content Writer**  
-🌐 Kathmandu, Nepal | 💬 [LinkedIn](https://www.linkedin.com/in/yuri-ranjit-51b573209/) | 🛠️ [GitHub Projects](https://github.com/yuri-ranjit)
+🌐 Kathmandu, Nepal | 💬 [LinkedIn](https://www.linkedin.com/in/yuri-ranjit-51b573209/)
 
 ---
 
