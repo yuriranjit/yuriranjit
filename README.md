@@ -9,7 +9,7 @@
 
 I'm a versatile professional with hands-on experience across **Quality Assurance**, **Project Management**, **Business Development**, and **Content Writing**. My sweet spot is at the intersection of analytical thinking, problem-solving, and creative execution. Whether it's finding that elusive bug, writing a report that *actually* makes sense, or planning a roadmap that teams can rally around—I bring structure, clarity, and strategy to the chaos.
 
-I live at the crossroads of *precision testing*, *creative problem-solving*, and *no-BS project execution*. My daily grind revolves around uncovering bugs that hide in plain sight, improving app reliability, and managing cross-functional teams like a tactician playing 4D chess.
+I live at the intersection of precision testing, creative problem-solving, and no-nonsense project execution. My daily grind revolves around uncovering bugs that hide in plain sight, improving app reliability, and managing cross-functional teams like a tactician playing 4D chess.
 
 I wear many hats, but they all fit under one mantra: **Deliver value, consistently.**
 
@@ -17,16 +17,17 @@ I wear many hats, but they all fit under one mantra: **Deliver value, consistent
 
 ## 👨‍💻 Current Roles
 
-### 🧪 Project Management Associate | QA Officer @ **Fagoon AI** *(Apr 2024 – Present)*
+### 📈 Business Development | Analyst | Content Writer @ **Ek ra Sunya** *(Jan 2024 – Present)*
+- Spearheaded lead generation efforts, boosting lead intake by 25%
+- Conducted business analysis and identified efficiency gaps—cut ops costs by 10%
+- Built and maintained CRM systems to streamline the client experience
+- Content Creation, copywriting for webpages, Email Template Creation
+
+### 🧪 Project Management Associate | QA Officer @ **Fagoon AI** *(Apr 2024 – Apr 2025)*
 - Conducted manual QA on apps, websites, and portals — increased bug detection by 20%
 - Maintained QA documentation, tracked defect density, and improved test execution rates
 - Managed project timelines and resources to ensure on-time, high-quality delivery
 - Coordinated cross-functional teams for smooth workflows and stakeholder satisfaction
-
-### 📈 Business Development | Analyst | Content Writer @ **Ek ra Sunya** *(Apr 2024 – Present)*
-- Spearheaded lead generation efforts, boosting lead intake by 25%
-- Conducted business analysis and identified efficiency gaps—cut ops costs by 10%
-- Built and maintained CRM systems to streamline the client experience
 
 ---
 
@@ -42,7 +43,7 @@ I wear many hats, but they all fit under one mantra: **Deliver value, consistent
   I specialize in poking holes in your “it works on my machine” assumptions. From exploratory testing to regression, I find the edge cases and break things *so users don’t have to*.
   
 - **Bug Reports that Slap:**  
-  I write clear, concise, and reproducible reports that don’t make devs want to throw their monitors.
+  I write clear, concise, and reproducible reports that don’t make devs want to throw away their monitors.
 
 - **Project Management:**  
   I manage multiple client projects in design, development, AI, and marketing. I am the glue that keeps the chaos organized.
