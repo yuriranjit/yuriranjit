@@ -87,7 +87,7 @@ I wear many hats, but they all fit under one mantra: **Deliver value, consistent
 
 ## 📚 Currently Leveling Up
 
-- 📘 Preparing for **IELTS**
+- 📘 Diving deep into **Business Intelligence (Power BI)**
 - ⚙️ Exploring **QA automation tools** & metrics-based testing
 - 🤖 Tinkering with **AI productivity tools** for content + PM workflows
 
